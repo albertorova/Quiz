@@ -1,0 +1,88 @@
+{
+  "questions": [
+    {
+      "title": "¿Cuál es una variable en kotlin?",
+      "answers": [
+        {
+          "title": "val",
+          "isCorrect": true
+        },
+        {
+          "title": "lat",
+          "isCorrect": false
+        },
+        {
+          "title": "fun",
+          "isCorrect": false
+        },
+        {
+          "title": "class",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "title": "¿Cuál es una función en kotlin?",
+      "answers": [
+        {
+          "title": "function",
+          "isCorrect": false
+        },
+        {
+          "title": "fun",
+          "isCorrect": true
+        },
+        {
+          "title": "val",
+          "isCorrect": false
+        },
+        {
+          "title": "class",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "title": "¿Cúal es una clase en Kotlin?",
+      "answers": [
+        {
+          "title": "function",
+          "isCorrect": false
+        },
+        {
+          "title": "class",
+          "isCorrect": true
+        },
+        {
+          "title": "val",
+          "isCorrect": false
+        },
+        {
+          "title": "fun",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "title": "¿Cual es un buble en Kotlin?",
+      "answers": [
+        {
+          "title": "function",
+          "isCorrect": false
+        },
+        {
+          "title": "for",
+          "isCorrect": true
+        },
+        {
+          "title": "if",
+          "isCorrect": false
+        },
+        {
+          "title": "class",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
